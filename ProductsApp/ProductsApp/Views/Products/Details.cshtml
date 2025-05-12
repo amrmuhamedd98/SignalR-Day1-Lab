@@ -1,0 +1,69 @@
+﻿@model Product
+
+<h1>@Model.Name</h1>
+<p>Price: @Model.Price.ToString("C")</p>
+<p>Quantity: @Model.Quantity</p>
+<img src="@Model.Image" alt="@Model.Name" style="max-width: 300px;" />
+
+<h2>Comments</h2>
+<div id="commentsSection">
+    @foreach (var comment in Model.Comments)
+    {
+        <div class="comment">
+            <strong>@comment.Username</strong>
+            <p>@comment.Text</p>
+        </div>
+    }
+</div>
+
+<h3>Add Comment</h3>
+<form id="commentForm">
+    <input type="hidden" id="productId" value="@Model.Id" />
+    <div class="form-group">
+        <label for="username">Name:</label>
+        <input type="text" id="username" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="commentText">Comment:</label>
+        <textarea id="commentText" class="form-control" required></textarea>
+    </div>
+    <input type="button" class="btn btn-primary" value="Add your comment!" id="submitComment" />
+</form>
+
+@section Scripts {
+    <script src="~/lib/microsoft-signalr/signalr.js"></script>
+    <script>
+        var hub = new signalR.HubConnectionBuilder()
+            .withUrl("/Comment")
+            .build();
+
+        hub.on("ReceiveComment", (productId, username, text) => {
+            if (productId === @Model.Id) {
+                var commentsSection = document.getElementById("commentsSection");
+                var commentDiv = document.createElement("div");
+                commentDiv.className = "comment";
+                commentDiv.innerHTML = `<strong>${username}</strong><p>${text}</p>`;
+                commentsSection.appendChild(commentDiv);
+            }
+        });
+
+        document.getElementById("submitComment").addEventListener("click", function(e) {
+            e.preventDefault();
+
+        var productId = parseInt(document.getElementById("productId").value);
+        var username = document.getElementById("username").value.trim();
+        var commentText = document.getElementById("commentText").value.trim();
+
+        hub.invoke("SendComment", productId, username, commentText)
+                .then(() => {
+                    document.getElementById("username").value = "";
+                    document.getElementById("commentText").value = "";
+                })
+                
+        });
+
+        hub.start()
+        .then(() => console.log("Connection successful"))
+           
+    </script>
+}

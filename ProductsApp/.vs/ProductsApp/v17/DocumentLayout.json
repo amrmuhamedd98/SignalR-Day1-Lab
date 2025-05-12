@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\signalr\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|d:\\signalr\\chatapp\\chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|d:\\signalr\\chatapp\\chatapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|solutionrelative:chatapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|d:\\signalr\\chatapp\\chatapp\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|solutionrelative:chatapp\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|d:\\signalr\\chatapp\\chatapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|solutionrelative:chatapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|d:\\signalr\\chatapp\\chatapp\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|d:\\signalr\\chatapp\\chatapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|solutionrelative:chatapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|d:\\signalr\\chatapp\\chatapp\\hubs\\commenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\hubs\\commenthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|d:\\signalr\\chatapp\\chatapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|d:\\signalr\\chatapp\\chatapp\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|d:\\signalr\\chatapp\\chatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|solutionrelative:chatapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110526_myNewMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatApp\\Migrations\\20250511110526_myNewMig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|d:\\signalr\\chatapp\\chatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|solutionrelative:chatapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110107_Newmigg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChatApp\\Migrations\\20250511110107_Newmigg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|d:\\signalr\\chatapp\\chatapp\\migrations\\20250511110015_newmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F86E79A-F7D9-4D44-B93C-D8CBB5310235}|ChatApp\\ProductsApp.csproj|solutionrelative:chatapp\\migrations\\20250511110015_newmg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ChatApp\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ChatApp\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:38:36.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Models\\Product.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Models\\Product.cs",
+              "RelativeToolTip": "ChatApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:40:25.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ChatApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ChatApp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T11:16:13.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Program.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Program.cs",
+              "RelativeToolTip": "ChatApp\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:19:30.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Models\\Comment.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Models\\Comment.cs",
+              "RelativeToolTip": "ChatApp\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:40:57.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentHub.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Hubs\\CommentHub.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Hubs\\CommentHub.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Hubs\\CommentHub.cs",
+              "RelativeToolTip": "ChatApp\\Hubs\\CommentHub.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:58:55.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductsDbContext.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Data\\ProductsDbContext.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Data\\ProductsDbContext.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Data\\ProductsDbContext.cs",
+              "RelativeToolTip": "ChatApp\\Data\\ProductsDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:32:34.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ChatApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ChatApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T10:57:56.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250511110015_newMg.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110015_newMg.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Migrations\\20250511110015_newMg.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110015_newMg.cs",
+              "RelativeToolTip": "ChatApp\\Migrations\\20250511110015_newMg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:00:16.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T10:57:31.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ChatApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:08:32.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatApp\\appsettings.json",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\appsettings.json",
+              "RelativeToolTip": "ChatApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T11:02:24.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250511110526_myNewMig.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110526_myNewMig.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Migrations\\20250511110526_myNewMig.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110526_myNewMig.cs",
+              "RelativeToolTip": "ChatApp\\Migrations\\20250511110526_myNewMig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:05:27.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250511110107_Newmigg.cs",
+              "DocumentMoniker": "D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110107_Newmigg.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Migrations\\20250511110107_Newmigg.cs",
+              "ToolTip": "D:\\signalr\\ChatApp\\ChatApp\\Migrations\\20250511110107_Newmigg.cs",
+              "RelativeToolTip": "ChatApp\\Migrations\\20250511110107_Newmigg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:01:07.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
